@@ -2,6 +2,6 @@
 
 ## Git boyicha commandalar 
 
-###Git init ornatish uchun 
+Git init ornatish uchun 
 
 Githubdagi reponi ulash uchun GIT CLONE commandasi beriladi
