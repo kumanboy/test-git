@@ -1,2 +1,2 @@
 'use strict'
-alert('hello world')
+prompt('Hello, what is your name?');
